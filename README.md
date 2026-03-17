@@ -99,7 +99,7 @@ Predictive-Analytics-Lab-Exam-2/
 ## 📌 Author
 
 **Krishnendhu M S**
-Bachelor in Mathematics
+SODS, DACS-253118
 
 Dataset = https://drive.google.com/file/d/1AA9ri4NLXd_pe76V2AOBuYg3Pve3K3Pf/view?usp=sharing
 
